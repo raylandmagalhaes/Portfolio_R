@@ -11,8 +11,8 @@ section:
 designation: Datas Scientist | Statistician 
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Upwork
+  url: "https://www.upwork.com/freelancers/~0126455c98945553a8"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Rayland_CV_21.pdf"
