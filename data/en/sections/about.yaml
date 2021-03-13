@@ -62,13 +62,13 @@ softSkills:
   percentage: 75
   color: orange
 - name: SQL
-  percentage: 75
+  percentage: 85
   color: "#00adb5"
 - name: Microsoft Office
   percentage: 75
-  color: "#00adb5"
+  color: red
 - name: C++
-  percentage: 65
+  percentage: 80
   color: "#8b8383"
 
 
