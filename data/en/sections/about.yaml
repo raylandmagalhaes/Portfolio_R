@@ -66,7 +66,7 @@ softSkills:
   color: "#00adb5"
 - name: Microsoft Office
   percentage: 75
-  color: red
+  color: "#00ffb5"
 - name: C++
   percentage: 80
   color: "#8b8383"
