@@ -50,7 +50,7 @@ softSkills:
   percentage: 85
   color: yellow
 - name: R
-  percentage: 96
+  percentage: 100
   color: pink
 - name: Python
   percentage: 80
