@@ -13,8 +13,6 @@
   margin: 0;
   background-attachment: fixed;
   background-position: center;
-  transform: scale(1.1);
-  filter: blur(3px);
   background-size: cover;
 }
 
@@ -142,7 +140,7 @@
   .home img {
     width: 140px;
     max-width: 50%;
-    height: auto;
+    height: 180px;
   }
 
   .home .greeting {
