@@ -20,7 +20,7 @@ degrees:
     scale: 
     achieved: 
     outOf: 
-  #publications: #(optional)
+  Pub: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
