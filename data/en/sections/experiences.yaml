@@ -16,6 +16,7 @@ experiences:
     location: Dhaka Branch
     # company overview
     overview: Upwork is a platform that helps companies to find the perfect freelancer for their needs.   
+  positions: 
   - designation: Data Scientist
     start: 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
@@ -32,6 +33,7 @@ experiences:
     url: "https://atle.com.br/"
     location: Natal - Rio Grande do Norte
     overview: Atle helps other companies to grow using advice and business intelligence.
+  positions:
   - designation: Intern Data Scientist
     start: 2018
     end: 2019
