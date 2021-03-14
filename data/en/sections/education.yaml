@@ -17,10 +17,10 @@ degrees:
     name: Universidade Federal do Rio Grande do Norte
     url: https://www.ufrn.br/
   grade: #(optional)
-    scale: #
-    achieved: #
-    outOf: #
-  publications: #(optional)
+    scale: 
+    achieved: 
+    outOf: 
+  Disciplines: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
