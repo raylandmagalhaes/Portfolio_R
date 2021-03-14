@@ -20,13 +20,35 @@ degrees:
     scale: 
     achieved: 
     outOf: 
-  Pub: #(optional)
+  #publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Introduction to Big Data Modeling
+      achieved: 3.75
+      outOf: 4
+    - name: Multivariate Analysis
+      achieved: 3.80
+      outOf: 4
+    - name: Time Series
+      achieved: 3.5
+      outOf: 4
+    - name: Machine Learning
+      achieved: 3.75
+      outOf: 4
+    - name: Experiment Design
+      achieved: 3.75
+      outOf: 4
+    - name: Statistical Process Control
+      achieved: 3.75
+      outOf: 4
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016
