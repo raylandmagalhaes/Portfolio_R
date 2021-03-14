@@ -12,13 +12,13 @@ section:
 achievements:
 - title: Project Mentioned at Greg News - HBO 
   image: /images/sections/achievements/greg.png
-  summary: Best presenter in the 2020 XYZ conference.
+  summary: He talks about my project and shows part of my interview for Rede Globo.
 - title: First Place in the Data Science Competition at the University.
   image: /images/sections/achievements/1st_place.png
-  summary: Champion in cycling inter-city cycling championship 2020.
+  summary: Won the first place in the first data science competition at Universidade Federal do Rio Grande do Norte. https://marcusnunes.me/posts/como-foi-a-competicao-de-ciencia-de-dados/ 
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+  summary: Received Bachelor of Science (B.Sc.) in Statistics from Universidade Federal do Rio Grande do Norte.
 - title: Award Winner
   image: /images/sections/achievements/woman-winner.jpg
   summary: Wined best paper award at IEE Conference 2020.
