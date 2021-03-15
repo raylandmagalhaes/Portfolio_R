@@ -30,14 +30,14 @@ projects:
   summary: A Shiny app that allows the monitoring of the expenses of any Brazilian congressperson.
   tags: ["Shiny", "R", "Big Data","Visualization"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: Twitter Sentiment Analysis
+  logo: /images/sections/projects/twitter-logo.png
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  timeline: "Jun 2020"
+  repo: https://github.com/raylandmagalhaes/Projeto-Twitter
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+  summary: Gathering tweets through API, performing a sentiment analysi, and visualizing with graphs. 
+  tags: ["twitter", "sentiment analysis","graph theory","text processing"]
 
 - name: A sample academic paper
   role: Team Lead
