@@ -40,6 +40,7 @@ projects:
   tags: ["twitter", "sentiment analysis","graph theory","text processing"]
 
 - name: Stock Exchange Visualizer App
+  logo: /images/sections/projects/twitter-stock.jpg
   role: Developer
   timeline: "2020"
   url: "https://github.com/raylandmagalhaes/Shiny-stock-quantmod/tree/master"
