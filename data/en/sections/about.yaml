@@ -46,7 +46,7 @@ softSkills:
 - name: Statistics
   percentage: 90
   color: blue
-- name: "Machine \n Learning"
+- name: "Mach. Learning"
   percentage: 85
   color: yellow
 - name: R
@@ -55,7 +55,7 @@ softSkills:
 - name: Python
   percentage: 80
   color: green
-- name: Cloud Computing
+- name: Cloud Comp.
   percentage: 50
   color: sky
 - name: SAS
