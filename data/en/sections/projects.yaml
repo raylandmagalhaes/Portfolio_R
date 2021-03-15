@@ -33,18 +33,18 @@ projects:
 - name: Twitter Sentiment Analysis
   logo: /images/sections/projects/twitter-logo.png
   role: Developer
-  timeline: "Jun 2020"
+  timeline: "2020"
   repo: https://github.com/raylandmagalhaes/Projeto-Twitter
   #url: ""
   summary: Gathering tweets through API, performing a sentiment analysi, and visualizing with graphs. 
   tags: ["twitter", "sentiment analysis","graph theory","text processing"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Stock Exchange Visualizer App
+  role: Developer
+  timeline: "2020"
+  url: "https://github.com/raylandmagalhaes/Shiny-stock-quantmod/tree/master"
+  summary: A Shiny app that allows the user to visualize any stock exchange over time. https://rayland-magalhes.shinyapps.io/Shiny-stock-quantmod/
+  tags: ["Shiny","stock","time series"]
 
 - name: Nocode
   logo: /images/sections/projects/no-code.png
