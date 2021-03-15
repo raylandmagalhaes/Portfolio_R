@@ -46,7 +46,7 @@ softSkills:
 - name: Statistics
   percentage: 90
   color: blue
-- name: Machine \n Learning
+- name: "Machine \n Learning"
   percentage: 85
   color: yellow
 - name: R
