@@ -43,14 +43,15 @@ projects:
   logo: /images/sections/projects/twitter-stock.jpg
   role: Developer
   timeline: "2020"
-  url: "https://github.com/raylandmagalhaes/Shiny-stock-quantmod/tree/master"
-  summary: A Shiny app that allows the user to visualize any stock exchange over time. https://rayland-magalhes.shinyapps.io/Shiny-stock-quantmod/
+  repo: "https://github.com/raylandmagalhaes/Shiny-stock-quantmod/tree/master"
+  url: "https://rayland-magalhes.shinyapps.io/Shiny-stock-quantmod/"
+  summary: A Shiny app that allows the user to visualize any stock exchange over time. 
   tags: ["Shiny","stock","time series"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
+- name: Stock Exchange Visualizer App
+  logo: /images/sections/projects/twitter-stock.jpg
+  role: Developer
+  timeline: "2020"
   repo: https://github.com/kelseyhightower/nocode
   #url: ""
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
