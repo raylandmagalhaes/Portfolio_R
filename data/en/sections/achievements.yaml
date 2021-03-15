@@ -10,15 +10,16 @@ section:
 
 # Your achievements achievements
 achievements:
+
+- title: Top Rated with 100% Job Success score at Upwork
+  image: /images/sections/achievements/toprated.png
+  summary: Received the Top Rated Badge for being one of the best freelancers on the platform with 100% Job success.
 - title: Project Mentioned at Greg News - HBO 
   image: /images/sections/achievements/greg.png
   summary: He talks about my project and shows part of my interview for Rede Globo.
-- title: First Place in the Data Science Competition at the University.
-  image: /images/sections/achievements/1st_place.png
-  summary: Won the first place in the first data science competition at Universidade Federal do Rio Grande do Norte. https://marcusnunes.me/posts/como-foi-a-competicao-de-ciencia-de-dados/ 
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Statistics from Universidade Federal do Rio Grande do Norte.
 - title: Interview 
   image: /images/sections/achievements/entrevista.png
   summary: An interview explaining how me and my teacher Marcus Nunes, came up with the idea of ​​the Brazilian congressperson expenses monitoring app. https://www.youtube.com/watch?v=RG4J1yS1_V4#t=13m10s&ab_channel=BandRN 
+- title: First Place in the Data Science Competition at the University.
+  image: /images/sections/achievements/1st_place.png
+  summary: Won the first place in the first data science competition at Universidade Federal do Rio Grande do Norte. https://marcusnunes.me/posts/como-foi-a-competicao-de-ciencia-de-dados/ 
