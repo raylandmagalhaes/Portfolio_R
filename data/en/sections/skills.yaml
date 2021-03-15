@@ -23,7 +23,7 @@ skills:
 
 - name: R
   logo: "/images/sections/skills/R.png"
-  summary: "R is my main programming language and, sometimes, I feel I can do anything with it. "
+  summary: "R is my main programming language and, sometimes, I feel I can do anything with it. (This website is being made using R) "
   url: "https://www.r-project.org/"
 
 - name: Cloud Computing
