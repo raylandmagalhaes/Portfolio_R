@@ -7,5 +7,5 @@ description: Portfolio and personal blog of Rayland Matos Magalhães, Data Scien
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Joke
-  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+- name: Docs
+  url: https://toha-guides.netlify.app/posts/
