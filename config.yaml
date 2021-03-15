@@ -1,7 +1,7 @@
 baseURL: https://raylandmagalhaes.netlify.app
 languageCode: en-us
 defaultContentLanguage: en
-title: "Rayland Magalhães"
+title: "Rayland"
 theme: "toha"
 
 # Manage languages
@@ -10,9 +10,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  pt:
-    languageName: Portugues
-    weight: 2
   
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
