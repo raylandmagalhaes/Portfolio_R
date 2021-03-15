@@ -16,7 +16,7 @@ skills:
   summary: "I have a bachelor's degree in statistics from a federal university in Brazil (UFRN)."
   url: "https://www.ufrn.br/"
 
-- name: Machine Learning
+- name: Machine \n Learning
   logo: "/images/sections/skills/machine_learning.png"
   summary: "My first contact with machine learning has been on a Big Data course in 2017 and since then, I haven't stopped searching for new techniques and approaches to solve my modeling needs."
 
